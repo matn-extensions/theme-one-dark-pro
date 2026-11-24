@@ -1,0 +1,16 @@
+{
+  "name": "One Dark Pro",
+  "type": "dark",
+  "author": "Matn Team",
+  "version": "1.0.0",
+  "colors": {
+    "bg": "#282C34",
+    "barBg": "#21252B",
+    "text": "#ABB2BF",
+    "muted": "#5C6370",
+    "accent": "#61AFEF",
+    "activeLine": "#2C313A",
+    "cursor": "#528BFF",
+    "border": "#3B4252"
+  }
+}

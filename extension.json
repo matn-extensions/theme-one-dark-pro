@@ -1,0 +1,10 @@
+{
+  "id": "matn.theme.one_dark_pro",
+  "name": "One Dark Pro Theme",
+  "version": "1.0.0",
+  "author": "Matn Team",
+  "description": "Iconic Atom One Dark theme with vibrant syntax highlights",
+  "category": "themes",
+  "type": "theme",
+  "repository": "https://github.com/matn-extensions/theme-one-dark-pro"
+}
